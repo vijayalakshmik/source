@@ -21,7 +21,7 @@ public class EventDemo
     // An event handler. 
     static void handler()
     {
-        Console.WriteLine("Event");
+        Console.WriteLine("git");
     }
 
     public static void Main()
