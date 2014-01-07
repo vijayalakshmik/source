@@ -1,5 +1,5 @@
 ﻿using System;
-//comment
+
 // Declare a delegate for an event.  
 delegate void MyEventHandler();
 
